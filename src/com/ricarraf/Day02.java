@@ -118,6 +118,4 @@ public class Day02 {
         System.out.println("The combination of noun plus verb is: " + findNounAndVerb(dataB));
 
     }
-
-    //31 e 46
 }
